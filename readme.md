@@ -18,7 +18,7 @@ These scripts are currently intended for use on Windows, after the installation 
 ![Settings the ADB Path (successful path in green)](/guide/setpath.PNG)
 
 * Test ADB is working by opening the CMD prompt and typing:
-	* adb devices
+	* `adb devices`
 
 ![ADB Working](/guide/adbworking.PNG)
 
