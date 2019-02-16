@@ -10,9 +10,9 @@ These scripts are currently intended for use on Windows, after the installation 
 
 ## Installation Instructions
 
-[systemprops]: /guide/sysprops.png "alt"
-[setpath]: /guide/setpath.png ""
-[adbworking]: /guide/adbworking.png "alt"
+[systemprops]: /guide/sysprops.png
+[setpath]: /guide/setpath.png
+[adbworking]: /guide/adbworking.png
 
 * Download and Install Android Platform Tools (Admin privileges required): [**Download Link**](https://developer.android.com/studio/releases/platform-tools)
 * Set the Environmental Variable for 'Path' to include a path to the Android Platform Tools (instructional images below)
