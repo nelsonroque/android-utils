@@ -10,21 +10,17 @@ These scripts are currently intended for use on Windows, after the installation 
 
 ## Installation Instructions
 
-[systemprops]: /guide/sysprops.png
-[setpath]: /guide/setpath.png
-[adbworking]: /guide/adbworking.png
-
 * Download and Install Android Platform Tools (Admin privileges required): [**Download Link**](https://developer.android.com/studio/releases/platform-tools)
 * Set the Environmental Variable for 'Path' to include a path to the Android Platform Tools (instructional images below)
 	* should be: **C:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools**
 
-![System Properties][systemprops]
-![Settings the ADB Path (successful path in green)][setpath]
+![System Properties](/guide/sysprops.png)
+![Settings the ADB Path (successful path in green)](/guide/setpath.png)
 
 * Test ADB is working by opening the CMD prompt and typing:
 	* adb devices
 
-![ADB Working][adbworking]
+![ADB Working](/guide/adbworking.png)
 
 ---
 
