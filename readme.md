@@ -12,7 +12,7 @@ These scripts are currently intended for use on Windows, after the installation 
 
 * Download and Install Android Platform Tools (Admin privileges required): [**Download Link**](https://developer.android.com/studio/releases/platform-tools)
 * Set the Environmental Variable for 'Path' to include a path to the Android Platform Tools
-⋅⋅* should be: **C:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools**
+..* should be: **C:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools**
 
 [systemprops]: guide/sysprops.png "alt"
 [setpath]: guide/setpath.png "Settings the ADB Path (successful path in green)"
